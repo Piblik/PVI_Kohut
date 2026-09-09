@@ -1,0 +1,38 @@
+# PHP
+/vendor/
+composer.lock
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Cache
+.phpunit.result.cache
+.php-cs-fixer.cache
+
+# XAMPP
+xampp/
+htdocs/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Uploads / generated files
+/uploads/
+storage/logs/
+storage/cache/
