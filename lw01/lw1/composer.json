@@ -1,0 +1,11 @@
+{
+    "name": "lab1/php-project",
+    "description": "Laboratory work - agricultural machinery rental",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
